@@ -1,0 +1,12 @@
+
+*.pyc
+
+sample_django_blog/.idea/misc.xml
+
+sample_django_blog/.idea/modules.xml
+
+sample_django_blog/.idea/vcs.xml
+
+sample_django_blog/.idea/sample_django_blog.iml
+
+sample_django_blog/.idea/inspectionProfiles/profiles_settings.xml
